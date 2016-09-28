@@ -331,6 +331,10 @@ header .header-content .header-content-inner p {
     padding-left: 0;
 }
 
+.border-port {
+    border: 3px solid #f05f69;
+}
+
 .btn-default {
     border-color: #fff;
     color: #222;

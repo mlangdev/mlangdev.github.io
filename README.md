@@ -35,5 +35,5 @@ Primeira experiência como desenvolvedor web. PHP, WordPress, SQL, Laravel e Cod
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/mauricio-lang/)
-- [Blog](https://mauriciolang.medium.com/)
+- [Medium](https://mauricio-lang.medium.com/)
 - [GitHub](https://github.com/mlangdev)
